@@ -1,6 +1,6 @@
 # pics
 
-A new Flutter project.
+A new Flutter project. Fetching pics from the API.
 
 ## Getting Started
 
